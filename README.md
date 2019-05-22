@@ -32,6 +32,8 @@ for this project there is need for the server like a localhost
 Note : for th mailing your 2 way steps verification should be off of Gmail and allow third party app
 
 
+Here you will found some unnecessary file you can delete it according to your wish..............
+
 Thank You  Guy's!......
 
 
