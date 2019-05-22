@@ -26,13 +26,16 @@ for this project there is need for the server like a localhost
  to execute on local pc
  download the file and paste it into the htdocs folder of the xampp and import the mysql file into phpmyadmin
  and changle the details in the dbh.php file about the dbname,username,password etc.
- to use the mailing features you have to give your mail id and password in the result.php file
+ to use the mailing features you have to give your mail id and password in the mail_test.php file and add that file in the     reslt.php file 
  
  
 Note : for th mailing your 2 way steps verification should be off of Gmail and allow third party app
 
 
 Here you will found some unnecessary file you can delete it according to your wish..............
+
+
+if you find any difficulty in the configure u can contact me
 
 Thank You  Guy's!......
 
