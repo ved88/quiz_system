@@ -1,0 +1,1 @@
+the details about the examination portal
